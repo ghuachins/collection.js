@@ -1,0 +1,24 @@
+{
+  "name": "collection.js",
+  "version": "1.0.0",
+  "description": "A practical handling data for javascript",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ghuachins/collection.js.git"
+  },
+  "keywords": [
+    "collection",
+    "collections",
+    "collection-javascript"
+  ],
+  "author": "Gian Huachin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghuachins/collection.js/issues"
+  },
+  "homepage": "https://github.com/ghuachins/collection.js#readme"
+}
